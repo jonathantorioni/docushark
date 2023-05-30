@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rotinas/Central de compras/exclusao_abastecimentos",
+  "id": "Rotinas/Central de compras/exclusao_abastecimentos",
+  "title": "Exclusão de abastecimentos automáticos",
+  "description": "Exclusão de produtos por marcas, grupos e subgrupos do abastecimento automático",
+  "source": "@site/docs/4-Rotinas/Central de compras/exclusao_abastecimentos.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/exclusao_abastecimentos",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SK Crossdocking",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/shcrossdocking"
+  },
+  "next": {
+    "title": "New Flag de Produtos",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_1"
+  }
+}

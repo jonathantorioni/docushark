@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rotinas/Central de compras/wizzard_central_de_compras",
+  "id": "Rotinas/Central de compras/wizzard_central_de_compras",
+  "title": "Wizzard Central de compras",
+  "description": "Wizzard Central de compras",
+  "source": "@site/docs/4-Rotinas/Central de compras/wizzard_central_de_compras.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/wizzard_central_de_compras",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Central de Compras OverView",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/central_compras_mm"
+  },
+  "next": {
+    "title": "SK Crossdocking",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/shcrossdocking"
+  }
+}

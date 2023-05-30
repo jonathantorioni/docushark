@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Rotinas/Central de compras/Importar itens-SHNEWFLAG",
+  "id": "Rotinas/Central de compras/Importar itens-SHNEWFLAG",
+  "title": "SHNEWFLAG.PRW",
+  "description": "Importação de Itens através de um CSV",
+  "source": "@site/docs/4-Rotinas/Central de compras/Importar itens-SHNEWFLAG.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/Importar itens-SHNEWFLAG",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/Importar itens-SHNEWFLAG",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exclusão de abastecimentos automáticos",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos"
+  },
+  "next": {
+    "title": "New Flag de Produtos",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto"
+  }
+}

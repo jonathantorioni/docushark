@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/ccxfun",
+  "id": "Fontes/ccxfun",
+  "title": "CCXFUN.PRW",
+  "description": "CCXFUN.PRW - Funções genericas Central de Compras",
+  "source": "@site/docs/2-Fontes/ccxfun.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/ccxfun",
+  "permalink": "/docushark/docs/Fontes/ccxfun",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fontes",
+    "permalink": "/docushark/docs/category/fontes"
+  },
+  "next": {
+    "title": "CONSCLI.PRW",
+    "permalink": "/docushark/docs/Fontes/conscli"
+  }
+}

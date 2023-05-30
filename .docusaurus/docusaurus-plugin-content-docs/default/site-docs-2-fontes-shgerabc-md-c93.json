@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/shgerabc",
+  "id": "Fontes/shgerabc",
+  "title": "SHGERABC.PRW",
+  "description": "SHGERABC.PRW - Fonte gerador de CURVA ABC Agricolas",
+  "source": "@site/docs/2-Fontes/shgerabc.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/shgerabc",
+  "permalink": "/docushark/docs/Fontes/shgerabc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHEXTCOM.PRW",
+    "permalink": "/docushark/docs/Fontes/shextcom"
+  },
+  "next": {
+    "title": "SHMPRECOSK.PRW",
+    "permalink": "/docushark/docs/Fontes/shmprecosk"
+  }
+}

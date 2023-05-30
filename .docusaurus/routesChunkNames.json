@@ -1,0 +1,329 @@
+{
+  "/docushark/blog-0d3": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "aedaa689"
+  },
+  "/docushark/blog/archive-307": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "archive": "5a0b034e"
+  },
+  "/docushark/blog/first-blog-post-175": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/docushark/blog/long-blog-post-5ea": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/docushark/blog/mdx-blog-post-85b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/docushark/blog/tags-066": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "tags": "7929f826"
+  },
+  "/docushark/blog/tags/docusaurus-e7a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "5d368173",
+    "listMetadata": "b53a7320"
+  },
+  "/docushark/blog/tags/facebook-6c9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "f5f55d7f",
+    "listMetadata": "41b18fb1"
+  },
+  "/docushark/blog/tags/hello-0b0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "69f31dde",
+    "listMetadata": "2d5697da"
+  },
+  "/docushark/blog/tags/hola-04b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "a1e8d83a",
+    "listMetadata": "662b8af5"
+  },
+  "/docushark/blog/welcome-81e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b4c3a218"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/docushark/Central-compras-d62": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "fca5f18e"
+    },
+    "content": "488df112"
+  },
+  "/docushark/markdown-page-76d": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "fca5f18e"
+    },
+    "content": "393be207"
+  },
+  "/docushark/search-28c": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "e70e4d4b"
+    }
+  },
+  "/docushark/docs-c1a": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "eb094b2b"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docushark/docs/category/fontes-fee": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f6bbb4cf"
+  },
+  "/docushark/docs/category/processos-c13": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "75c935ac"
+  },
+  "/docushark/docs/category/rotinas-2c5": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7ab3e751"
+  },
+  "/docushark/docs/Fontes/ccxfun-bb3": {
+    "__comp": "17896441",
+    "content": "5491c382"
+  },
+  "/docushark/docs/Fontes/conscli-122": {
+    "__comp": "17896441",
+    "content": "e3aa9e9e"
+  },
+  "/docushark/docs/Fontes/menvmail-790": {
+    "__comp": "17896441",
+    "content": "76b61813"
+  },
+  "/docushark/docs/Fontes/mschxml-55e": {
+    "__comp": "17896441",
+    "content": "0ce8b91b"
+  },
+  "/docushark/docs/Fontes/mx181-117": {
+    "__comp": "17896441",
+    "content": "b6ec10fa"
+  },
+  "/docushark/docs/Fontes/relabast-5ea": {
+    "__comp": "17896441",
+    "content": "8540fefc"
+  },
+  "/docushark/docs/Fontes/shextcom-1c1": {
+    "__comp": "17896441",
+    "content": "789822d6"
+  },
+  "/docushark/docs/Fontes/shgerabc-62e": {
+    "__comp": "17896441",
+    "content": "c93a44ec"
+  },
+  "/docushark/docs/Fontes/shmprecosk-cd4": {
+    "__comp": "17896441",
+    "content": "1814653d"
+  },
+  "/docushark/docs/Fontes/shprccom-b93": {
+    "__comp": "17896441",
+    "content": "25052f88"
+  },
+  "/docushark/docs/Fontes/shsugtran-e51": {
+    "__comp": "17896441",
+    "content": "97e9e9df"
+  },
+  "/docushark/docs/Fontes/shtraaba-485": {
+    "__comp": "17896441",
+    "content": "cddd6888"
+  },
+  "/docushark/docs/Fontes/shtranes-a7e": {
+    "__comp": "17896441",
+    "content": "2f5512a3"
+  },
+  "/docushark/docs/Fontes/shtranf-e1d": {
+    "__comp": "17896441",
+    "content": "947115b1"
+  },
+  "/docushark/docs/Fontes/transporteBancosShark-abd": {
+    "__comp": "17896441",
+    "content": "c8658a8e"
+  },
+  "/docushark/docs/Homologação/Retirar Pedido do Faturamento Automatico-d09": {
+    "__comp": "17896441",
+    "content": "6e681bd0"
+  },
+  "/docushark/docs/intro-654": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docushark/docs/Processos/Estrutura PCO-f94": {
+    "__comp": "17896441",
+    "content": "ae997538"
+  },
+  "/docushark/docs/Processos/fechamento_estoque-f19": {
+    "__comp": "17896441",
+    "content": "975a119f"
+  },
+  "/docushark/docs/Processos/formacao_preco_sk-c96": {
+    "__comp": "17896441",
+    "content": "bbf25167"
+  },
+  "/docushark/docs/Processos/liberacao_preco-511": {
+    "__comp": "17896441",
+    "content": "f8e3d23e"
+  },
+  "/docushark/docs/Rotinas/Central de compras/central_compras_mm-51e": {
+    "__comp": "17896441",
+    "content": "df37d26b"
+  },
+  "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos-663": {
+    "__comp": "17896441",
+    "content": "fb4736bc"
+  },
+  "/docushark/docs/Rotinas/Central de compras/new_flag_produto_1-418": {
+    "__comp": "17896441",
+    "content": "96d1a84c"
+  },
+  "/docushark/docs/Rotinas/Central de compras/new_flag_produto_2-4d7": {
+    "__comp": "17896441",
+    "content": "9bbd0f21"
+  },
+  "/docushark/docs/Rotinas/Central de compras/shcrossdocking-dac": {
+    "__comp": "17896441",
+    "content": "bcbe210b"
+  },
+  "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras-770": {
+    "__comp": "17896441",
+    "content": "756f7735"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Agendamento-417": {
+    "__comp": "17896441",
+    "content": "d6e412be"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Cadastros_iniciais-bbf": {
+    "__comp": "17896441",
+    "content": "9fe1c9fe"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica-a01": {
+    "__comp": "17896441",
+    "content": "2cef9822"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina-5da": {
+    "__comp": "17896441",
+    "content": "ee6d5a06"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases-777": {
+    "__comp": "17896441",
+    "content": "e387c893"
+  },
+  "/docushark/docs/Rotinas/Oficina SIGAOFI/Ordem_Servico-2ca": {
+    "__comp": "17896441",
+    "content": "91e84831"
+  },
+  "/docushark/docs/Rotinas/TRC-AGCO/shtrccon-02a": {
+    "__comp": "17896441",
+    "content": "be4f2d91"
+  },
+  "/docushark/docs/Rotinas/TRC-AGCO/shtrcdms-b56": {
+    "__comp": "17896441",
+    "content": "108c5957"
+  },
+  "/docushark/docs/Rotinas/TRC-AGCO/shtrcdtbase-bea": {
+    "__comp": "17896441",
+    "content": "c5d0e9e9"
+  },
+  "/docushark/-967": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "fca5f18e"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Rotinas/rotinas",
+  "id": "Rotinas/rotinas",
+  "title": "Central de compras",
+  "description": "Documentação de rotinas Shark",
+  "source": "@site/docs/Rotinas/rotinas.md",
+  "sourceDirName": "Rotinas",
+  "slug": "/Rotinas/",
+  "permalink": "/docs/Rotinas/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Rotinas/rotinas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotinas",
+    "permalink": "/docs/category/rotinas"
+  }
+}

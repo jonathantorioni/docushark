@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rotinas/Oficina SIGAOFI/Orcamento_fases",
+  "id": "Rotinas/Oficina SIGAOFI/Orcamento_fases",
+  "title": "Orçamento por fases (SIGAOFI)",
+  "description": "----",
+  "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Orcamento_fases.md",
+  "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+  "slug": "/Rotinas/Oficina SIGAOFI/Orcamento_fases",
+  "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agendamento (SIGAOFI)",
+    "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Agendamento"
+  },
+  "next": {
+    "title": "Escala Automática (SIGAOFI)",
+    "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica"
+  }
+}

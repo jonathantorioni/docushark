@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Rotinas/email_assincrono",
+  "id": "Rotinas/email_assincrono",
+  "title": "IMP - Envio de e-mail assincrono",
+  "description": "Envio de e-mail assíncrono Protheus",
+  "source": "@site/docs/3-Rotinas/email_assincrono.md",
+  "sourceDirName": "3-Rotinas",
+  "slug": "/Rotinas/email_assincrono",
+  "permalink": "/docs/Rotinas/email_assincrono",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Central de compras",
+    "permalink": "/docs/Rotinas/central_de_compras"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

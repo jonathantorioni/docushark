@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Rotinas/Central de compras/new_flag_produto_principal",
+  "id": "Rotinas/Central de compras/new_flag_produto_principal",
+  "title": "New Flag de Produtos",
+  "description": "Estoque mínimo novos produtos",
+  "source": "@site/docs/4-Rotinas/Central de compras/new_flag_produto_principal.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/new_flag_produto_principal",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_principal",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "New Flag de Produtos - Importador",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_importador"
+  },
+  "next": {
+    "title": "Fluxograma (SIGAOFI)",
+    "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina"
+  }
+}

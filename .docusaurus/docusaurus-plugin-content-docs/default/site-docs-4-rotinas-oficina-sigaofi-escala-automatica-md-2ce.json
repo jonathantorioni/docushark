@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rotinas/Oficina SIGAOFI/Escala_automatica",
+  "id": "Rotinas/Oficina SIGAOFI/Escala_automatica",
+  "title": "Escala Automática (SIGAOFI)",
+  "description": "----",
+  "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Escala_automatica.md",
+  "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+  "slug": "/Rotinas/Oficina SIGAOFI/Escala_automatica",
+  "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orçamento por fases (SIGAOFI)",
+    "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases"
+  },
+  "next": {
+    "title": "Ordem de Serviço (SIGAOFI)",
+    "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Ordem_Servico"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Processos/Estrutura PCO",
+  "id": "Processos/Estrutura PCO",
+  "title": "PCO - Planilha orçamentaria",
+  "description": "Formação estrutura da planilha orçamentaria",
+  "source": "@site/docs/5-Processos/Estrutura PCO.md",
+  "sourceDirName": "5-Processos",
+  "slug": "/Processos/Estrutura PCO",
+  "permalink": "/docushark/docs/Processos/Estrutura PCO",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Processos",
+    "permalink": "/docushark/docs/category/processos"
+  },
+  "next": {
+    "title": "Fechamento de estoque",
+    "permalink": "/docushark/docs/Processos/fechamento_estoque"
+  }
+}

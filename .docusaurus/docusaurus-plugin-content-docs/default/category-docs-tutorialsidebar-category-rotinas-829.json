@@ -1,0 +1,16 @@
+{
+  "title": "Rotinas - ",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/rotinas---",
+  "permalink": "/docs/category/rotinas---",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Rotinas",
+      "permalink": "/docs/Rotinas/"
+    }
+  }
+}

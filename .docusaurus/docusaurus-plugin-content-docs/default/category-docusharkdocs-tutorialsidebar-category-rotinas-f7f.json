@@ -1,0 +1,16 @@
+{
+  "title": "Rotinas",
+  "description": "Documentação de rotinas utilizadas pelos usuários do Grupo Shark",
+  "slug": "/category/rotinas",
+  "permalink": "/docushark/docs/category/rotinas",
+  "navigation": {
+    "previous": {
+      "title": "transporteBancosShark.py",
+      "permalink": "/docushark/docs/Fontes/transporteBancosShark"
+    },
+    "next": {
+      "title": "Central de Compras OverView",
+      "permalink": "/docushark/docs/Rotinas/Central de compras/central_compras_mm"
+    }
+  }
+}

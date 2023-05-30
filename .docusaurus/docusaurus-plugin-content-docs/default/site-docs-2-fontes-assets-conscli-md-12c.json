@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/assets/conscli",
+  "id": "Fontes/assets/conscli",
+  "title": "CONSCLI.PRW",
+  "description": "CONSPRO.PRW - CONSCLI[WEBAPP]",
+  "source": "@site/docs/2-Fontes/assets/conscli.md",
+  "sourceDirName": "2-Fontes/assets",
+  "slug": "/Fontes/assets/conscli",
+  "permalink": "/docushark/docs/Fontes/assets/conscli",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fontes",
+    "permalink": "/docushark/docs/category/fontes"
+  },
+  "next": {
+    "title": "CONSCLI.PRW",
+    "permalink": "/docushark/docs/Fontes/conscli"
+  }
+}

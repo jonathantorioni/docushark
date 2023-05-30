@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rotinas/Central de compras/central_compras_mm",
+  "id": "Rotinas/Central de compras/central_compras_mm",
+  "title": "Central de Compras OverView",
+  "description": "Mapa mental de funcionamento do central de compras",
+  "source": "@site/docs/4-Rotinas/Central de compras/central_compras_mm.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/central_compras_mm",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/central_compras_mm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotinas",
+    "permalink": "/docushark/docs/category/rotinas"
+  },
+  "next": {
+    "title": "Wizzard Central de compras",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras"
+  }
+}

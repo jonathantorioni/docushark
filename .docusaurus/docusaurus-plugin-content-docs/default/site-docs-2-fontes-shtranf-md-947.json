@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/shtranf",
+  "id": "Fontes/shtranf",
+  "title": "SHTRANF.PRW",
+  "description": "Desabastecimento automatico de produtos sem giro",
+  "source": "@site/docs/2-Fontes/shtranf.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/shtranf",
+  "permalink": "/docushark/docs/Fontes/shtranf",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHTRANES.PRW",
+    "permalink": "/docushark/docs/Fontes/shtranes"
+  },
+  "next": {
+    "title": "transporteBancosShark.py",
+    "permalink": "/docushark/docs/Fontes/transporteBancosShark"
+  }
+}

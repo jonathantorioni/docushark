@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Rotinas/TRC-AGCO/shtrcdtbase",
+  "id": "Rotinas/TRC-AGCO/shtrcdtbase",
+  "title": "SHTRCDTBASE.PRW",
+  "description": "db",
+  "source": "@site/docs/4-Rotinas/TRC-AGCO/shtrcdtbase.md",
+  "sourceDirName": "4-Rotinas/TRC-AGCO",
+  "slug": "/Rotinas/TRC-AGCO/shtrcdtbase",
+  "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdtbase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHTRCDMS.PRW",
+    "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdms"
+  },
+  "next": {
+    "title": "Processos",
+    "permalink": "/docushark/docs/category/processos"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/mschxml",
+  "id": "Fontes/mschxml",
+  "title": "MSCHXML.PRW",
+  "description": "Importação de XML",
+  "source": "@site/docs/2-Fontes/mschxml.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/mschxml",
+  "permalink": "/docushark/docs/Fontes/mschxml",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MENVMAIL.PRW",
+    "permalink": "/docushark/docs/Fontes/menvmail"
+  },
+  "next": {
+    "title": "MX181.PRW",
+    "permalink": "/docushark/docs/Fontes/mx181"
+  }
+}

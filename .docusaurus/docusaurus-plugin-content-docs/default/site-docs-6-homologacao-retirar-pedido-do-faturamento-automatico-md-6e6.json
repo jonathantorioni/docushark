@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Homologação/Retirar Pedido do Faturamento Automatico",
+  "id": "Homologação/Retirar Pedido do Faturamento Automatico",
+  "title": "Retirar Pedido do Faturamento Automático",
+  "description": "|Homologação ||",
+  "source": "@site/docs/6-Homologação/Retirar Pedido do Faturamento Automatico.md",
+  "sourceDirName": "6-Homologação",
+  "slug": "/Homologação/Retirar Pedido do Faturamento Automatico",
+  "permalink": "/docushark/docs/Homologação/Retirar Pedido do Faturamento Automatico",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Liberação de preço",
+    "permalink": "/docushark/docs/Processos/liberacao_preco"
+  }
+}

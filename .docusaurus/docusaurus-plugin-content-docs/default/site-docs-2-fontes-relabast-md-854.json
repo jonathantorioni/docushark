@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/relabast",
+  "id": "Fontes/relabast",
+  "title": "RELABAST.PRW",
+  "description": "Relatorio de Abastecimento e Desabastecimento automático",
+  "source": "@site/docs/2-Fontes/relabast.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/relabast",
+  "permalink": "/docushark/docs/Fontes/relabast",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MX181.PRW",
+    "permalink": "/docushark/docs/Fontes/mx181"
+  },
+  "next": {
+    "title": "SHEXTCOM.PRW",
+    "permalink": "/docushark/docs/Fontes/shextcom"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/shtranes",
+  "id": "Fontes/shtranes",
+  "title": "SHTRANES.PRW",
+  "description": "Transferência automática de produtos com estoque excedente",
+  "source": "@site/docs/2-Fontes/shtranes.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/shtranes",
+  "permalink": "/docushark/docs/Fontes/shtranes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHTRAABA.PRW",
+    "permalink": "/docushark/docs/Fontes/shtraaba"
+  },
+  "next": {
+    "title": "SHTRANF.PRW",
+    "permalink": "/docushark/docs/Fontes/shtranf"
+  }
+}

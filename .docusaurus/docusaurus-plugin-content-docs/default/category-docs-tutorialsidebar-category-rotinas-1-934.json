@@ -1,0 +1,16 @@
+{
+  "title": "Rotinas",
+  "description": "Documentação de rotinas utilizadas pelos usuários do Grupo Shark",
+  "slug": "/category/rotinas-1",
+  "permalink": "/docs/category/rotinas-1",
+  "navigation": {
+    "previous": {
+      "title": "Rotinas",
+      "permalink": "/docs/category/rotinas"
+    },
+    "next": {
+      "title": "Central de compras",
+      "permalink": "/docs/Rotinas/Centralde_de_Compras/wizzard_central_de_compras"
+    }
+  }
+}

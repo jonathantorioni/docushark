@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/shextcom",
+  "id": "Fontes/shextcom",
+  "title": "SHEXTCOM.PRW",
+  "description": "Relatório da sugestão de compras",
+  "source": "@site/docs/2-Fontes/shextcom.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/shextcom",
+  "permalink": "/docushark/docs/Fontes/shextcom",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RELABAST.PRW",
+    "permalink": "/docushark/docs/Fontes/relabast"
+  },
+  "next": {
+    "title": "SHGERABC.PRW",
+    "permalink": "/docushark/docs/Fontes/shgerabc"
+  }
+}

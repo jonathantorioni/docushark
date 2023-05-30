@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Rotinas/Central de compras/shextcom",
+  "id": "Rotinas/Central de compras/shextcom",
+  "title": "SHEXTCOM.PRW",
+  "description": "Relatório da sugestão de compras",
+  "source": "@site/docs/4-Rotinas/Central de compras/shextcom.md",
+  "sourceDirName": "4-Rotinas/Central de compras",
+  "slug": "/Rotinas/Central de compras/shextcom",
+  "permalink": "/docushark/docs/Rotinas/Central de compras/shextcom",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MX181.PRW",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/mx181"
+  },
+  "next": {
+    "title": "SHTRAABA.PRW",
+    "permalink": "/docushark/docs/Rotinas/Central de compras/shtraaba"
+  }
+}

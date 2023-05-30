@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/shmprecosk",
+  "id": "Fontes/shmprecosk",
+  "title": "SHMPRECOSK.PRW",
+  "description": "Processo de nova formação de preço de venda SK / Ecommerce",
+  "source": "@site/docs/2-Fontes/shmprecosk.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/shmprecosk",
+  "permalink": "/docushark/docs/Fontes/shmprecosk",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHGERABC.PRW",
+    "permalink": "/docushark/docs/Fontes/shgerabc"
+  },
+  "next": {
+    "title": "SHPRCCOM.PRW",
+    "permalink": "/docushark/docs/Fontes/shprccom"
+  }
+}

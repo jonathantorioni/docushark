@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/PRW/menvmail",
+  "id": "Fontes/PRW/menvmail",
+  "title": "MENVMAIL.PRW",
+  "description": "Envio de e-mail assíncrono Protheus",
+  "source": "@site/docs/2-Fontes/PRW/menvmail.md",
+  "sourceDirName": "2-Fontes/PRW",
+  "slug": "/Fontes/PRW/menvmail",
+  "permalink": "/docs/Fontes/PRW/menvmail",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fontes",
+    "permalink": "/docs/category/fontes"
+  },
+  "next": {
+    "title": "Rotinas",
+    "permalink": "/docs/category/rotinas"
+  }
+}

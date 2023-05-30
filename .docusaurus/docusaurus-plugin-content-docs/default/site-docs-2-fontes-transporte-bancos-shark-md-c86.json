@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/transporteBancosShark",
+  "id": "Fontes/transporteBancosShark",
+  "title": "transporteBancosShark.py",
+  "description": "Transporte de arquivos bancários entre Protheus e IaaS",
+  "source": "@site/docs/2-Fontes/transporteBancosShark.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/transporteBancosShark",
+  "permalink": "/docushark/docs/Fontes/transporteBancosShark",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHTRANF.PRW",
+    "permalink": "/docushark/docs/Fontes/shtranf"
+  },
+  "next": {
+    "title": "Rotinas",
+    "permalink": "/docushark/docs/category/rotinas"
+  }
+}

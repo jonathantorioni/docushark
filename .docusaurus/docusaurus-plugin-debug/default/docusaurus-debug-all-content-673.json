@@ -1,0 +1,1476 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docushark/docs",
+          "tagsPath": "/docushark/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\DocoShark\\docushark\\sidebars.js",
+          "contentPath": "E:\\DocoShark\\docushark\\docs",
+          "contentPathLocalized": "E:\\DocoShark\\docushark\\i18n\\pt-BR\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Fontes/ccxfun",
+              "id": "Fontes/ccxfun",
+              "title": "CCXFUN.PRW",
+              "description": "CCXFUN.PRW - Funções genericas Central de Compras",
+              "source": "@site/docs/2-Fontes/ccxfun.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/ccxfun",
+              "permalink": "/docushark/docs/Fontes/ccxfun",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fontes",
+                "permalink": "/docushark/docs/category/fontes"
+              },
+              "next": {
+                "title": "CONSCLI.PRW",
+                "permalink": "/docushark/docs/Fontes/conscli"
+              }
+            },
+            {
+              "unversionedId": "Fontes/conscli",
+              "id": "Fontes/conscli",
+              "title": "CONSCLI.PRW",
+              "description": "CONSPRO.PRW - CONSCLI[WEBAPP]",
+              "source": "@site/docs/2-Fontes/conscli.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/conscli",
+              "permalink": "/docushark/docs/Fontes/conscli",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CCXFUN.PRW",
+                "permalink": "/docushark/docs/Fontes/ccxfun"
+              },
+              "next": {
+                "title": "MENVMAIL.PRW",
+                "permalink": "/docushark/docs/Fontes/menvmail"
+              }
+            },
+            {
+              "unversionedId": "Fontes/menvmail",
+              "id": "Fontes/menvmail",
+              "title": "MENVMAIL.PRW",
+              "description": "Envio de e-mail assíncrono Protheus",
+              "source": "@site/docs/2-Fontes/menvmail.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/menvmail",
+              "permalink": "/docushark/docs/Fontes/menvmail",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CONSCLI.PRW",
+                "permalink": "/docushark/docs/Fontes/conscli"
+              },
+              "next": {
+                "title": "MSCHXML.PRW",
+                "permalink": "/docushark/docs/Fontes/mschxml"
+              }
+            },
+            {
+              "unversionedId": "Fontes/mschxml",
+              "id": "Fontes/mschxml",
+              "title": "MSCHXML.PRW",
+              "description": "Importação de XML",
+              "source": "@site/docs/2-Fontes/mschxml.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/mschxml",
+              "permalink": "/docushark/docs/Fontes/mschxml",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MENVMAIL.PRW",
+                "permalink": "/docushark/docs/Fontes/menvmail"
+              },
+              "next": {
+                "title": "MX181.PRW",
+                "permalink": "/docushark/docs/Fontes/mx181"
+              }
+            },
+            {
+              "unversionedId": "Fontes/mx181",
+              "id": "Fontes/mx181",
+              "title": "MX181.PRW",
+              "description": "MX181.PRW - Modelo de dados para efetivação da sugestão de compras",
+              "source": "@site/docs/2-Fontes/mx181.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/mx181",
+              "permalink": "/docushark/docs/Fontes/mx181",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MSCHXML.PRW",
+                "permalink": "/docushark/docs/Fontes/mschxml"
+              },
+              "next": {
+                "title": "RELABAST.PRW",
+                "permalink": "/docushark/docs/Fontes/relabast"
+              }
+            },
+            {
+              "unversionedId": "Fontes/relabast",
+              "id": "Fontes/relabast",
+              "title": "RELABAST.PRW",
+              "description": "Relatorio de Abastecimento e Desabastecimento automático",
+              "source": "@site/docs/2-Fontes/relabast.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/relabast",
+              "permalink": "/docushark/docs/Fontes/relabast",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MX181.PRW",
+                "permalink": "/docushark/docs/Fontes/mx181"
+              },
+              "next": {
+                "title": "SHEXTCOM.PRW",
+                "permalink": "/docushark/docs/Fontes/shextcom"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shextcom",
+              "id": "Fontes/shextcom",
+              "title": "SHEXTCOM.PRW",
+              "description": "Relatório da sugestão de compras",
+              "source": "@site/docs/2-Fontes/shextcom.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shextcom",
+              "permalink": "/docushark/docs/Fontes/shextcom",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RELABAST.PRW",
+                "permalink": "/docushark/docs/Fontes/relabast"
+              },
+              "next": {
+                "title": "SHGERABC.PRW",
+                "permalink": "/docushark/docs/Fontes/shgerabc"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shgerabc",
+              "id": "Fontes/shgerabc",
+              "title": "SHGERABC.PRW",
+              "description": "SHGERABC.PRW - Fonte gerador de CURVA ABC Agricolas",
+              "source": "@site/docs/2-Fontes/shgerabc.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shgerabc",
+              "permalink": "/docushark/docs/Fontes/shgerabc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHEXTCOM.PRW",
+                "permalink": "/docushark/docs/Fontes/shextcom"
+              },
+              "next": {
+                "title": "SHMPRECOSK.PRW",
+                "permalink": "/docushark/docs/Fontes/shmprecosk"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shmprecosk",
+              "id": "Fontes/shmprecosk",
+              "title": "SHMPRECOSK.PRW",
+              "description": "Processo de nova formação de preço de venda SK / Ecommerce",
+              "source": "@site/docs/2-Fontes/shmprecosk.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shmprecosk",
+              "permalink": "/docushark/docs/Fontes/shmprecosk",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHGERABC.PRW",
+                "permalink": "/docushark/docs/Fontes/shgerabc"
+              },
+              "next": {
+                "title": "SHPRCCOM.PRW",
+                "permalink": "/docushark/docs/Fontes/shprccom"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shprccom",
+              "id": "Fontes/shprccom",
+              "title": "SHPRCCOM.PRW",
+              "description": "Coleta estatística pra sugestão de compras",
+              "source": "@site/docs/2-Fontes/shprccom.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shprccom",
+              "permalink": "/docushark/docs/Fontes/shprccom",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHMPRECOSK.PRW",
+                "permalink": "/docushark/docs/Fontes/shmprecosk"
+              },
+              "next": {
+                "title": "SHSUGTRAN.PRW",
+                "permalink": "/docushark/docs/Fontes/shsugtran"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shsugtran",
+              "id": "Fontes/shsugtran",
+              "title": "SHSUGTRAN.PRW",
+              "description": "Alimentador de tabela temporaria PCZ para transferências automatizadas",
+              "source": "@site/docs/2-Fontes/shsugtran.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shsugtran",
+              "permalink": "/docushark/docs/Fontes/shsugtran",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHPRCCOM.PRW",
+                "permalink": "/docushark/docs/Fontes/shprccom"
+              },
+              "next": {
+                "title": "SHTRAABA.PRW",
+                "permalink": "/docushark/docs/Fontes/shtraaba"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shtraaba",
+              "id": "Fontes/shtraaba",
+              "title": "SHTRAABA.PRW",
+              "description": "Abastecimento automático das filiais atendidas por um CD",
+              "source": "@site/docs/2-Fontes/shtraaba.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shtraaba",
+              "permalink": "/docushark/docs/Fontes/shtraaba",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHSUGTRAN.PRW",
+                "permalink": "/docushark/docs/Fontes/shsugtran"
+              },
+              "next": {
+                "title": "SHTRANES.PRW",
+                "permalink": "/docushark/docs/Fontes/shtranes"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shtranes",
+              "id": "Fontes/shtranes",
+              "title": "SHTRANES.PRW",
+              "description": "Transferência automática de produtos com estoque excedente",
+              "source": "@site/docs/2-Fontes/shtranes.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shtranes",
+              "permalink": "/docushark/docs/Fontes/shtranes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHTRAABA.PRW",
+                "permalink": "/docushark/docs/Fontes/shtraaba"
+              },
+              "next": {
+                "title": "SHTRANF.PRW",
+                "permalink": "/docushark/docs/Fontes/shtranf"
+              }
+            },
+            {
+              "unversionedId": "Fontes/shtranf",
+              "id": "Fontes/shtranf",
+              "title": "SHTRANF.PRW",
+              "description": "Desabastecimento automatico de produtos sem giro",
+              "source": "@site/docs/2-Fontes/shtranf.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/shtranf",
+              "permalink": "/docushark/docs/Fontes/shtranf",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHTRANES.PRW",
+                "permalink": "/docushark/docs/Fontes/shtranes"
+              },
+              "next": {
+                "title": "transporteBancosShark.py",
+                "permalink": "/docushark/docs/Fontes/transporteBancosShark"
+              }
+            },
+            {
+              "unversionedId": "Fontes/transporteBancosShark",
+              "id": "Fontes/transporteBancosShark",
+              "title": "transporteBancosShark.py",
+              "description": "Transporte de arquivos bancários entre Protheus e IaaS",
+              "source": "@site/docs/2-Fontes/transporteBancosShark.md",
+              "sourceDirName": "2-Fontes",
+              "slug": "/Fontes/transporteBancosShark",
+              "permalink": "/docushark/docs/Fontes/transporteBancosShark",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHTRANF.PRW",
+                "permalink": "/docushark/docs/Fontes/shtranf"
+              },
+              "next": {
+                "title": "Rotinas",
+                "permalink": "/docushark/docs/category/rotinas"
+              }
+            },
+            {
+              "unversionedId": "Homologação/Retirar Pedido do Faturamento Automatico",
+              "id": "Homologação/Retirar Pedido do Faturamento Automatico",
+              "title": "Retirar Pedido do Faturamento Automático",
+              "description": "|Homologação ||",
+              "source": "@site/docs/6-Homologação/Retirar Pedido do Faturamento Automatico.md",
+              "sourceDirName": "6-Homologação",
+              "slug": "/Homologação/Retirar Pedido do Faturamento Automatico",
+              "permalink": "/docushark/docs/Homologação/Retirar Pedido do Faturamento Automatico",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Liberação de preço",
+                "permalink": "/docushark/docs/Processos/liberacao_preco"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Home",
+              "description": "----",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docushark/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Fontes",
+                "permalink": "/docushark/docs/category/fontes"
+              }
+            },
+            {
+              "unversionedId": "Processos/Estrutura PCO",
+              "id": "Processos/Estrutura PCO",
+              "title": "PCO - Planilha orçamentaria",
+              "description": "Formação estrutura da planilha orçamentaria",
+              "source": "@site/docs/5-Processos/Estrutura PCO.md",
+              "sourceDirName": "5-Processos",
+              "slug": "/Processos/Estrutura PCO",
+              "permalink": "/docushark/docs/Processos/Estrutura PCO",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Processos",
+                "permalink": "/docushark/docs/category/processos"
+              },
+              "next": {
+                "title": "Fechamento de estoque",
+                "permalink": "/docushark/docs/Processos/fechamento_estoque"
+              }
+            },
+            {
+              "unversionedId": "Processos/fechamento_estoque",
+              "id": "Processos/fechamento_estoque",
+              "title": "Fechamento de estoque",
+              "description": "Fechamento mensal de estoque",
+              "source": "@site/docs/5-Processos/fechamento_estoque.md",
+              "sourceDirName": "5-Processos",
+              "slug": "/Processos/fechamento_estoque",
+              "permalink": "/docushark/docs/Processos/fechamento_estoque",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PCO - Planilha orçamentaria",
+                "permalink": "/docushark/docs/Processos/Estrutura PCO"
+              },
+              "next": {
+                "title": "Formação de preço SK",
+                "permalink": "/docushark/docs/Processos/formacao_preco_sk"
+              }
+            },
+            {
+              "unversionedId": "Processos/formacao_preco_sk",
+              "id": "Processos/formacao_preco_sk",
+              "title": "Formação de preço SK",
+              "description": "Processo de nova formação de preço de venda SK / Ecommerce",
+              "source": "@site/docs/5-Processos/formacao_preco_sk.md",
+              "sourceDirName": "5-Processos",
+              "slug": "/Processos/formacao_preco_sk",
+              "permalink": "/docushark/docs/Processos/formacao_preco_sk",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fechamento de estoque",
+                "permalink": "/docushark/docs/Processos/fechamento_estoque"
+              },
+              "next": {
+                "title": "Liberação de preço",
+                "permalink": "/docushark/docs/Processos/liberacao_preco"
+              }
+            },
+            {
+              "unversionedId": "Processos/liberacao_preco",
+              "id": "Processos/liberacao_preco",
+              "title": "Liberação de preço",
+              "description": "Aprovar em massa todos pedidos da Faixa 6",
+              "source": "@site/docs/5-Processos/liberacao_preco.md",
+              "sourceDirName": "5-Processos",
+              "slug": "/Processos/liberacao_preco",
+              "permalink": "/docushark/docs/Processos/liberacao_preco",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Formação de preço SK",
+                "permalink": "/docushark/docs/Processos/formacao_preco_sk"
+              },
+              "next": {
+                "title": "Retirar Pedido do Faturamento Automático",
+                "permalink": "/docushark/docs/Homologação/Retirar Pedido do Faturamento Automatico"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/central_compras_mm",
+              "id": "Rotinas/Central de compras/central_compras_mm",
+              "title": "Central de Compras OverView",
+              "description": "Mapa mental de funcionamento do central de compras",
+              "source": "@site/docs/4-Rotinas/Central de compras/central_compras_mm.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/central_compras_mm",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/central_compras_mm",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rotinas",
+                "permalink": "/docushark/docs/category/rotinas"
+              },
+              "next": {
+                "title": "Wizzard Central de compras",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/exclusao_abastecimentos",
+              "id": "Rotinas/Central de compras/exclusao_abastecimentos",
+              "title": "Exclusão de abastecimentos automáticos",
+              "description": "Exclusão de produtos por marcas, grupos e subgrupos do abastecimento automático",
+              "source": "@site/docs/4-Rotinas/Central de compras/exclusao_abastecimentos.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/exclusao_abastecimentos",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SK Crossdocking",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/shcrossdocking"
+              },
+              "next": {
+                "title": "New Flag de Produtos",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_1"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/new_flag_produto_1",
+              "id": "Rotinas/Central de compras/new_flag_produto_1",
+              "title": "New Flag de Produtos",
+              "description": "Estoque mínimo novos produtos",
+              "source": "@site/docs/4-Rotinas/Central de compras/new_flag_produto_1.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/new_flag_produto_1",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_1",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exclusão de abastecimentos automáticos",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos"
+              },
+              "next": {
+                "title": "New Flag de Produtos - Importador",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_2"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/new_flag_produto_2",
+              "id": "Rotinas/Central de compras/new_flag_produto_2",
+              "title": "New Flag de Produtos - Importador",
+              "description": "Importação de Itens através de um CSV",
+              "source": "@site/docs/4-Rotinas/Central de compras/new_flag_produto_2.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/new_flag_produto_2",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_2",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "New Flag de Produtos",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_1"
+              },
+              "next": {
+                "title": "Fluxograma (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/shcrossdocking",
+              "id": "Rotinas/Central de compras/shcrossdocking",
+              "title": "SK Crossdocking",
+              "description": "Cadastro de transportadora (De Para)",
+              "source": "@site/docs/4-Rotinas/Central de compras/shcrossdocking.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/shcrossdocking",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/shcrossdocking",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wizzard Central de compras",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras"
+              },
+              "next": {
+                "title": "Exclusão de abastecimentos automáticos",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/exclusao_abastecimentos"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Central de compras/wizzard_central_de_compras",
+              "id": "Rotinas/Central de compras/wizzard_central_de_compras",
+              "title": "Wizzard Central de compras",
+              "description": "Wizzard Central de compras",
+              "source": "@site/docs/4-Rotinas/Central de compras/wizzard_central_de_compras.md",
+              "sourceDirName": "4-Rotinas/Central de compras",
+              "slug": "/Rotinas/Central de compras/wizzard_central_de_compras",
+              "permalink": "/docushark/docs/Rotinas/Central de compras/wizzard_central_de_compras",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Central de Compras OverView",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/central_compras_mm"
+              },
+              "next": {
+                "title": "SK Crossdocking",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/shcrossdocking"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Agendamento",
+              "id": "Rotinas/Oficina SIGAOFI/Agendamento",
+              "title": "Agendamento (SIGAOFI)",
+              "description": "----",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Agendamento.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Agendamento",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Agendamento",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cadastros Iniciais (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Cadastros_iniciais"
+              },
+              "next": {
+                "title": "Orçamento por fases (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Cadastros_iniciais",
+              "id": "Rotinas/Oficina SIGAOFI/Cadastros_iniciais",
+              "title": "Cadastros Iniciais (SIGAOFI)",
+              "description": "Sequencia de cadastros para o funcionamento correto do módulo SIGAOFI",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Cadastros_iniciais.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Cadastros_iniciais",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Cadastros_iniciais",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fluxograma (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina"
+              },
+              "next": {
+                "title": "Agendamento (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Agendamento"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Escala_automatica",
+              "id": "Rotinas/Oficina SIGAOFI/Escala_automatica",
+              "title": "Escala Automática (SIGAOFI)",
+              "description": "----",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Escala_automatica.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Escala_automatica",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Orçamento por fases (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases"
+              },
+              "next": {
+                "title": "Ordem de Serviço (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Ordem_Servico"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Fluxograma_Oficina",
+              "id": "Rotinas/Oficina SIGAOFI/Fluxograma_Oficina",
+              "title": "Fluxograma (SIGAOFI)",
+              "description": "Fluxograma",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Fluxograma_Oficina.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Fluxograma_Oficina",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "New Flag de Produtos - Importador",
+                "permalink": "/docushark/docs/Rotinas/Central de compras/new_flag_produto_2"
+              },
+              "next": {
+                "title": "Cadastros Iniciais (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Cadastros_iniciais"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Orcamento_fases",
+              "id": "Rotinas/Oficina SIGAOFI/Orcamento_fases",
+              "title": "Orçamento por fases (SIGAOFI)",
+              "description": "----",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Orcamento_fases.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Orcamento_fases",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Orcamento_fases",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agendamento (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Agendamento"
+              },
+              "next": {
+                "title": "Escala Automática (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/Oficina SIGAOFI/Ordem_Servico",
+              "id": "Rotinas/Oficina SIGAOFI/Ordem_Servico",
+              "title": "Ordem de Serviço (SIGAOFI)",
+              "description": "----",
+              "source": "@site/docs/4-Rotinas/Oficina SIGAOFI/Ordem_Servico.md",
+              "sourceDirName": "4-Rotinas/Oficina SIGAOFI",
+              "slug": "/Rotinas/Oficina SIGAOFI/Ordem_Servico",
+              "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Ordem_Servico",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Escala Automática (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Escala_automatica"
+              },
+              "next": {
+                "title": "SHTRCCON.PRW",
+                "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrccon"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/TRC-AGCO/shtrccon",
+              "id": "Rotinas/TRC-AGCO/shtrccon",
+              "title": "SHTRCCON.PRW",
+              "description": "auth",
+              "source": "@site/docs/4-Rotinas/TRC-AGCO/shtrccon.md",
+              "sourceDirName": "4-Rotinas/TRC-AGCO",
+              "slug": "/Rotinas/TRC-AGCO/shtrccon",
+              "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrccon",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ordem de Serviço (SIGAOFI)",
+                "permalink": "/docushark/docs/Rotinas/Oficina SIGAOFI/Ordem_Servico"
+              },
+              "next": {
+                "title": "SHTRCDMS.PRW",
+                "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdms"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/TRC-AGCO/shtrcdms",
+              "id": "Rotinas/TRC-AGCO/shtrcdms",
+              "title": "SHTRCDMS.PRW",
+              "description": "carga",
+              "source": "@site/docs/4-Rotinas/TRC-AGCO/shtrcdms.md",
+              "sourceDirName": "4-Rotinas/TRC-AGCO",
+              "slug": "/Rotinas/TRC-AGCO/shtrcdms",
+              "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdms",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHTRCCON.PRW",
+                "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrccon"
+              },
+              "next": {
+                "title": "SHTRCDTBASE.PRW",
+                "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdtbase"
+              }
+            },
+            {
+              "unversionedId": "Rotinas/TRC-AGCO/shtrcdtbase",
+              "id": "Rotinas/TRC-AGCO/shtrcdtbase",
+              "title": "SHTRCDTBASE.PRW",
+              "description": "db",
+              "source": "@site/docs/4-Rotinas/TRC-AGCO/shtrcdtbase.md",
+              "sourceDirName": "4-Rotinas/TRC-AGCO",
+              "slug": "/Rotinas/TRC-AGCO/shtrcdtbase",
+              "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdtbase",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SHTRCDMS.PRW",
+                "permalink": "/docushark/docs/Rotinas/TRC-AGCO/shtrcdms"
+              },
+              "next": {
+                "title": "Processos",
+                "permalink": "/docushark/docs/category/processos"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Fontes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Fontes/ccxfun"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/conscli"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/menvmail"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/mschxml"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/mx181"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/relabast"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shextcom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shgerabc"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shmprecosk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shprccom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shsugtran"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shtraaba"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shtranes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/shtranf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Fontes/transporteBancosShark"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Documentação de fontes customizados do Grupo Shark",
+                  "slug": "/category/fontes",
+                  "permalink": "/docushark/docs/category/fontes"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Rotinas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Central de compras",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/central_compras_mm"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/wizzard_central_de_compras"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/shcrossdocking"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/exclusao_abastecimentos"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/new_flag_produto_1"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Central de compras/new_flag_produto_2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Oficina SIGAOFI",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Fluxograma_Oficina"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Cadastros_iniciais"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Agendamento"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Orcamento_fases"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Escala_automatica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/Oficina SIGAOFI/Ordem_Servico"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "TRC-AGCO",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/TRC-AGCO/shtrccon"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/TRC-AGCO/shtrcdms"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Rotinas/TRC-AGCO/shtrcdtbase"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Documentação de rotinas utilizadas pelos usuários do Grupo Shark",
+                  "slug": "/category/rotinas",
+                  "permalink": "/docushark/docs/category/rotinas"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Processos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Processos/Estrutura PCO"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Processos/fechamento_estoque"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Processos/formacao_preco_sk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Processos/liberacao_preco"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Documentação de rotinas utilizadas pelos usuários do Grupo Shark",
+                  "slug": "/category/processos",
+                  "permalink": "/docushark/docs/category/processos"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Homologação",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Homologação/Retirar Pedido do Faturamento Automatico"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/docushark/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "26 de agosto de 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/docushark/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/docushark/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/docushark/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/docushark/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/docushark/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "1 de agosto de 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/docushark/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/docushark/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/docushark/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/docushark/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "29 de maio de 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/docushark/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/docushark/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/docushark/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/docushark/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/docushark/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "28 de maio de 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/docushark/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/docushark/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/docushark/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/docushark/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/docushark/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/docushark/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/docushark/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/docushark/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/docushark/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/docushark/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/docushark/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/docushark/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/docushark/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/docushark/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/docushark/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/docushark/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/docushark/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/docushark/Central-compras",
+        "source": "@site/src/pages/Central-compras.md",
+        "title": "Central de compras",
+        "description": "Documentação de implantação",
+        "frontMatter": {}
+      },
+      {
+        "type": "jsx",
+        "permalink": "/docushark/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/docushark/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

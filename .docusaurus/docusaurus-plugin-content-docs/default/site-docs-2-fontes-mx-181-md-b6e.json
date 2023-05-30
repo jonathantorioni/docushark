@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fontes/mx181",
+  "id": "Fontes/mx181",
+  "title": "MX181.PRW",
+  "description": "MX181.PRW - Modelo de dados para efetivação da sugestão de compras",
+  "source": "@site/docs/2-Fontes/mx181.md",
+  "sourceDirName": "2-Fontes",
+  "slug": "/Fontes/mx181",
+  "permalink": "/docushark/docs/Fontes/mx181",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MSCHXML.PRW",
+    "permalink": "/docushark/docs/Fontes/mschxml"
+  },
+  "next": {
+    "title": "RELABAST.PRW",
+    "permalink": "/docushark/docs/Fontes/relabast"
+  }
+}
