@@ -1,9 +1,11 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
+  # push trigger disabled while Pages source is set back to "legacy" (Deploy from a branch)
+  # in GitHub Settings > Pages, to avoid this workflow racing the built-in legacy build.
+  # push:
+  #   branches: [main]
 
 permissions:
   contents: read
